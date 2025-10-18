@@ -1,15 +1,15 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:10-10-2025
+## Date:10.10.2025
 
 ## AIM:
- To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
+ To design a website to calculate the Body Mass Index (BMI) in the server side. 
 
 
 ## FORMULA:
-P = I<sup>2</sup>R
-<br> P --> Power (in watts)
-<br> I --> Intensity
-<br> R --> Resistance
+BMI= W/H<sup>2</sup>
+<br> BMI --> Body Mass Index
+<br> W --> Weight
+<br> H --> Height
 
 ## DESIGN STEPS:
 
